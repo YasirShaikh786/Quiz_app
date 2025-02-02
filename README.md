@@ -40,6 +40,13 @@ node server.js
 
 npm run dev
 
+📌 Video
+
+<video width="500" controls>
+  <source src="video/QuizAppVideo.mp4" type="video/mp4">
+</video>
+
+
 
 📌 Screen Shot
 
